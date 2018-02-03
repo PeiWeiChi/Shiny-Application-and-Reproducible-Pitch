@@ -1,8 +1,6 @@
 # Shiny-Application-and-Reproducible-Pitch
 This a Shiny-App for Coursera Assignment
 
-The resourse of data is AirPassengers from R dataset
-
 Instuction:
 
 This peer assessed assignment has two parts. First, you will create a Shiny application and deploy it on Rstudio's servers. 
@@ -55,3 +53,17 @@ If you are using Rpubs, put in the link to the presentation into the submission 
 You can also publish using both formats to github manually using gh-pages, though your github branch must have a .nojekyll fle 
 and be on a branch names gh-pages. There's more on gh-pages here https://pages.github.com/ and there is a video lecture 
 outlining how to do this.
+
+# Data
+
+The resourse of data is AirPassengers from R dataset
+
+Monthly Airline Passenger Numbers 1949-1960
+
+Description:
+The classic Box & Jenkins airline data. Monthly totals of international airline passengers, 1949 to 1960.
+
+Source:
+Box, G. E. P., Jenkins, G. M. and Reinsel, G. C. (1976) Time Series Analysis, Forecasting and Control. 
+Third Edition. Holden-Day. Series G.
+
