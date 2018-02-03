@@ -1,5 +1,6 @@
 # Shiny-Application-and-Reproducible-Pitch
-This a Shiny-App for Coursera Assignment
+This a Shiny-App for Coursera Assignment, please refer to the hyperlink below for the application
+https://williams33307.shinyapps.io/ShinyApplicationandReproduciblePitch/
 
 Instuction:
 
