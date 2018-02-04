@@ -1,0 +1,48 @@
+Shiny Application and Reproducible Pitch
+========================================================
+author: Pei Wei Chi 
+date: 2/4/2018
+autosize: true
+
+Shiny Application - Air Passengers
+========================================================
+
+This a Shiny-App for Coursera Assignment, please refer to the hyperlink below for the application https://williams33307.shinyapps.io/ShinyApplicationandReproduciblePitch/
+
+The shiny package in R is using to make this app and upload to the Shinyapps cloud
+
+
+
+Data set
+========================================================
+The resourse of data is AirPassengers from R dataset
+
+##Monthly Airline Passenger Numbers 1949-1960
+
+Description: The classic Box & Jenkins airline data. Monthly totals of international airline passengers, 1949 to 1960.
+
+Source: Box, G. E. P., Jenkins, G. M. and Reinsel, G. C. (1976) Time Series Analysis, Forecasting and Control. Third Edition. Holden-Day. Series G.
+
+
+Data structure
+========================================================
+
+```{r, echo=T}
+AirPassengers
+```
+
+
+Data usage
+=======================================================
+It's a time-serious table in R, the left most side is the year and the top is month.
+In order to extract data, we have to use "window" function, otherwise, the specifict data can't be obtain.
+window is a generic function which extracts the subset of the object x observed between the times start and end. If a frequency is specified, the series is then re-sampled at the new frequency.
+
+
+App discreption
+=======================================================
+
+
+In the user interface, you can slide the bar to select a specific year that you want to know, the range is from 1949 to 1960. After you select, the figur in the right side will show the distribution of passengers from Jan. to Dec. in the year you selected.
+
+
