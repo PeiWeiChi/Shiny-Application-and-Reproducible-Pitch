@@ -1,8 +1,13 @@
 # Shiny-Application-and-Reproducible-Pitch
-This a Shiny-App for Coursera Assignment, please refer to the hyperlink below for the application
+This a Shiny-App for Coursera Assignment, please refer to the hyperlink below for the application;
 https://williams33307.shinyapps.io/ShinyApplicationandReproduciblePitch/
 
-Instuction:
+Here is the pressentation of this app, please refer to the hyperlink below;
+http://rpubs.com/williamchi/355919
+
+
+
+Assignment Instuction:
 
 This peer assessed assignment has two parts. First, you will create a Shiny application and deploy it on Rstudio's servers. 
 Second, you will use Slidify or Rstudio Presenter to prepare a reproducible pitch presentation about your application.
